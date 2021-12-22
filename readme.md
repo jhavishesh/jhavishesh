@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently persuing my MCA from **[BVICAM](http://bvicam.in/)**
+- 🔭 I’m currently pursuing my MCA from **[BVICAM](http://bvicam.in/)**
 
 - 😎 I’m  5 ⭐ coder **@ Hackerank**
 
