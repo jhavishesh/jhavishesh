@@ -79,4 +79,5 @@
 </p>
     
     
-    ![snake gif](https://github.com/jhavishesh/jhavishesh/blob/output/github-contribution-grid-snake.gif)
+  
+[snake gif] (https://github.com/jhavishesh/jhavishesh/blob/output/github-contribution-grid-snake.gif)
