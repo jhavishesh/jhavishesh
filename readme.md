@@ -77,3 +77,5 @@
 <a href = "https://www.youtube.com/channel/UCwOFJdk_6DhNCBwAvUGuVwg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
 </p>
+    
+![snake gif](https://github.com/jhavishesh/jhavishesh/blob/output/github-contribution-grid-snake.gif)
