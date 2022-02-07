@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my MCA from **[BVICAM](http://bvicam.in/)**
 
-- 😎 I’m  5 ⭐ coder **@ Hackerank**
+- 😎 I’m  3 ⭐ coder **@ Codechef **
 
 - 👨🏻‍💻 I’m currently working as Computer Science Expert **@ Chegg**
 
