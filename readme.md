@@ -76,6 +76,9 @@
 <a href ="mailto:jhavishesh123@gmail.com?subject = Feedback&body = Message"><img src="https://img.icons8.com/color/48/000000/gmail-new.png"/></a>
 <a href = "https://www.youtube.com/channel/UCwOFJdk_6DhNCBwAvUGuVwg"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
 
+![](https://komarev.com/ghpvc/?username=jhavishesh&color=green)
+
+
 </p>
     
 ![snake gif](https://github.com/jhavishesh/jhavishesh/blob/output/github-contribution-grid-snake.gif)
