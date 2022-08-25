@@ -10,6 +10,8 @@
 
 - 😎 I’m   3⭐ Coder **@ Codechef**
 
+- 👨🏻‍💻 I’m currently working as Associate Engineer Trainee Intern **@Nagarro**
+
 - 👨🏻‍💻 I’m currently working as Computer Science Expert **@ Chegg**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
