@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently pursuing my MCA from **[BVICAM](http://bvicam.in/)**
 
-- 😎 I’m   3⭐ Coder **@ Codechef**
+- 😎 I’m   4⭐ Coder **@ Codechef**
 
 - 👨🏻‍💻 I’m currently working as Associate Engineer Trainee Intern **@Nagarro**
 
