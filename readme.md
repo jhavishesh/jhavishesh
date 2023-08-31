@@ -6,15 +6,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently pursuing my MCA from **[BVICAM](http://bvicam.in/)**
+- 🔭 I’m currently working as SDE I **@[Neo Group](https://www.neo-group.in/)**
 
 - 😎 I’m   4⭐ Coder **@ Codechef**
 
-- 👨🏻‍💻 I’m currently working as Associate Engineer Trainee Intern **@Nagarro**
+- 👨🏻‍💻Former Associate Engineer Trainee Intern **@Nagarro**
 
-- 👨🏻‍💻 I’m currently working as Computer Science Expert **@ Chegg**
-
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 👨🏻‍💻 Worked as Computer Science Expert **@ Chegg**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
